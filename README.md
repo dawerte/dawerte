@@ -23,10 +23,3 @@ Infrastructure & AI enthusiast. I build self-hosted systems end to end — from 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-
-## 📊 GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dawerte&show_icons=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dawerte&layout=compact&theme=transparent" alt="Top languages" />
-</p>
