@@ -27,6 +27,6 @@ Infrastructure & AI enthusiast. I build self-hosted systems end to end — from 
 ## 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dawerte&show_icons=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawerte&layout=compact&theme=transparent" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dawerte&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dawerte&layout=compact&theme=transparent" alt="Top languages" />
 </p>
